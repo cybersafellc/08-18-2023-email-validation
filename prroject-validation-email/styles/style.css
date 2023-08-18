@@ -1,0 +1,8 @@
+.d-none-focus,
+textarea {
+  transition: all 0.3s;
+  color: rgba(0, 0, 0, 0.3);
+}
+/* textarea:focus ~ .d-none-focus {
+  display: none !important;
+} */
